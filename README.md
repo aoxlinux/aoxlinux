@@ -1,2 +1,2 @@
-# aoxlinux
+# Aox Linux
 Clean Linux Distribution
