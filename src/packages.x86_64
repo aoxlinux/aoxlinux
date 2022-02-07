@@ -87,12 +87,14 @@ freetype2
 fribidi
 fuse-common
 fuse2
+fuse3
 garcon
 gawk
 gc
 gcab
 gcc
 gcc-libs
+gcr
 gdbm
 gdk-pixbuf2
 geoclue
@@ -130,6 +132,7 @@ gtk-update-icon-cache
 gtk3
 gtksourceview4
 guile
+gvfs
 gzip
 harfbuzz
 hicolor-icon-theme
@@ -198,6 +201,7 @@ lcms2
 ldns
 less
 libaio
+libappindicator-gtk3
 libarchive
 libass
 libassuan
@@ -213,6 +217,9 @@ libcaca
 libcanberra
 libcap
 libcap-ng
+libcddb
+libcdio
+libcdio-paranoia
 libcloudproviders
 libcolord
 libcroco
@@ -247,6 +254,7 @@ libid3tag
 libidn2
 libiec61883
 libimobiledevice
+libindicator-gtk3
 libinih
 libinput
 libisoburn
@@ -270,6 +278,7 @@ libnftnl
 libnghttp2
 libnl
 libnm
+libnma
 libnotify
 libnsl
 libogg
@@ -399,8 +408,10 @@ ncurses
 ndctl
 net-tools
 nettle
+network-manager-applet
 networkmanager
 networkmanager-openvpn
+nm-connection-editor
 npth
 nspr
 nss
@@ -491,6 +502,7 @@ readline
 rest
 ristretto
 rofi
+rsync
 rtkit
 sbc
 sdl2
@@ -637,6 +649,7 @@ xorg-xset
 xorg-xwayland
 xorgproto
 xvidcore
+xxhash
 xz
 yajl
 yaml-cpp
