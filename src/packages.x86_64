@@ -135,6 +135,9 @@ harfbuzz
 hicolor-icon-theme
 hidapi
 htop
+hunspell
+hunspell-en_us
+hunspell-es_any
 hwdata
 hwinfo
 i3status
