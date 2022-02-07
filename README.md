@@ -1,2 +1,2 @@
 # Aox Linux
-Clean Linux Distribution
+A clean linux distribution derived from Arch for personal use.
