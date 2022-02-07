@@ -125,7 +125,7 @@ strings:
     shortProductName:    AoxLinux
     version:             2020.2 LTS
     shortVersion:        2020.2
-    versionedName:       Aox Linux GNU/Linux 2020.2 LTS "zero"
+    versionedName:       Aox Linux GNU/Linux 2020.2 LTS "Zero"
     shortVersionedName:  AoxLinux 2020.2
     bootloaderEntryName: AoxLinux
     productUrl:          https://calamares.io/

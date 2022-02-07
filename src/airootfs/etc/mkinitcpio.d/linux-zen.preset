@@ -1,0 +1,13 @@
+PRESETS=('default' 'fallback')
+
+ALL_kver='/boot/vmlinuz-linux-zen'
+ALL_config='/etc/mkinitcpio.conf'
+
+default_image="/boot/initramfs-linux-zen.img"
+#default_options=""
+
+
+#fallback_config="/etc/mkinitcpio.conf"
+fallback_image="/boot/initramfs-linux-zen-fallback.img"
+fallback_options="-S autodetect"
+
