@@ -39,7 +39,7 @@
       <property name="show-removable" type="bool" value="false"/>
       <property name="show-home" type="bool" value="false"/>
     </property>
-    <property name="primary" type="bool" value="false"/>
+    <property name="primary" type="bool" value="true"/>
     <property name="use-custom-font-size" type="bool" value="false"/>
     <property name="show-hidden-files" type="bool" value="false"/>
     <property name="single-click" type="bool" value="false"/>

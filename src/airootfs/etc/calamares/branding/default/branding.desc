@@ -123,9 +123,9 @@ navigation: widget
 strings:
     productName:         Aox Linux
     shortProductName:    AoxLinux
-    version:             2020.2 LTS
+    version:             2020.2
     shortVersion:        2020.2
-    versionedName:       Aox Linux GNU/Linux 2020.2 LTS "Zero"
+    versionedName:       Aox Linux GNU/Linux 2020.2 "Zero"
     shortVersionedName:  AoxLinux 2020.2
     bootloaderEntryName: AoxLinux
     productUrl:          https://calamares.io/
