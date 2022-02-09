@@ -43,9 +43,10 @@
     <property name="use-custom-font-size" type="bool" value="false"/>
     <property name="show-hidden-files" type="bool" value="false"/>
     <property name="single-click" type="bool" value="false"/>
-    <property name="show-tooltips" type="bool" value="true"/>
-    <property name="show-thumbnails" type="bool" value="true"/>
+    <property name="show-tooltips" type="bool" value="false"/>
+    <property name="show-thumbnails" type="bool" value="false"/>
     <property name="style" type="int" value="0"/>
+    <property name="gravity" type="int" value="1"/>
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="603"/>

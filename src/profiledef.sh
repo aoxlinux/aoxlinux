@@ -23,5 +23,4 @@ file_permissions=(
   ["/etc/shadow"]="0:0:0400"
   ["/etc/gshadow"]="0:0:0400"
   ["/usr/local/bin/i3blocks_contrib/"]="0:0:777"
-  ["/usr/local/bin/post_install"]="0:0:755"
 )

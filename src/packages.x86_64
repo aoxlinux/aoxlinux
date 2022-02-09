@@ -372,6 +372,7 @@ libyaml
 licenses
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 lilv
 linux-api-headers
 linux-firmware
