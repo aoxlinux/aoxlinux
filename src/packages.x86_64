@@ -57,6 +57,7 @@ dav1d
 db
 dbus
 dbus-glib
+dbus-python
 dconf
 desktop-file-utils
 device-mapper
@@ -229,6 +230,7 @@ libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk3
 libdbusmenu-qt5
+libde265
 libdrm
 libdv
 libedit
@@ -248,6 +250,7 @@ libgtop
 libgudev
 libgusb
 libhandy
+libheif
 libibus
 libice
 libid3tag
@@ -367,6 +370,7 @@ libxss
 libxt
 libxtst
 libxv
+libxvmc
 libxxf86vm
 libyaml
 licenses
@@ -479,7 +483,11 @@ procps-ng
 psmisc
 pulseaudio
 python
+python-cairo
+python-feedparser
 python-gobject
+python-mutagen
+python-sgmllib3k
 qca-qt5
 qrencode
 qt5-base
@@ -498,6 +506,7 @@ qt5ct
 qt6-base
 qt6-svg
 qt6-translations
+quodlibet
 rav1e
 re2
 readline
@@ -592,6 +601,12 @@ xdg-desktop-portal
 xdg-desktop-portal-gtk
 xdg-utils
 xf86-input-libinput
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-vesa
 xfburn
 xfce4-appfinder
 xfce4-artwork
