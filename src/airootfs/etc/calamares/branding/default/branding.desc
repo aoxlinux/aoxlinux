@@ -123,16 +123,16 @@ navigation: widget
 strings:
     productName:         Aox Linux
     shortProductName:    AoxLinux
-    version:             2020.2
-    shortVersion:        2020.2
-    versionedName:       Aox Linux GNU/Linux 2020.2 "Zero"
-    shortVersionedName:  AoxLinux 2020.2
+    version:             v0.1
+    shortVersion:        v0.1
+    versionedName:       Aox Linux GNU/Linux "v0.1"
+    shortVersionedName:  AoxLinux v0.1
     bootloaderEntryName: AoxLinux
-    productUrl:          https://calamares.io/
-    supportUrl:          https://github.com/calamares/calamares/wiki
-    knownIssuesUrl:      https://github.com/calamares/calamares/issues
-    releaseNotesUrl:     https://calamares.io/news/
-    donateUrl:           https://kde.org/community/donations/index.php
+    productUrl:          https://github.com/olivaresa/aoxlinux
+    supportUrl:          https://github.com/olivaresa/aoxlinux/wiki
+    knownIssuesUrl:      https://github.com/olivaresa/aoxlinux
+    releaseNotesUrl:     https://github.com/olivaresa/aoxlinux/releases
+    donateUrl:           https://github.com/olivaresa
 
 # These images are loaded from the branding module directory.
 #

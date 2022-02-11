@@ -1,3 +1,4 @@
+a52dec
 aalib
 acl
 adobe-source-code-pro-fonts
@@ -43,6 +44,7 @@ cairo
 calamares
 cantarell-fonts
 cdparanoia
+celt
 chaotic-keyring
 chaotic-mirrorlist
 chromium
@@ -75,6 +77,8 @@ ell
 erofs-utils
 exo
 expat
+faac
+faad2
 fakeroot
 ffmpeg
 file
@@ -141,7 +145,8 @@ hidapi
 htop
 hunspell
 hunspell-en_us
-hunspell-es_any
+hunspell-es_es
+hunspell-es_ve
 hwdata
 hwinfo
 i3status
@@ -157,6 +162,7 @@ iso-codes
 iwd
 jack2
 jansson
+jasper
 js78
 json-c
 json-glib
@@ -209,6 +215,7 @@ libassuan
 libasyncns
 libatasmart
 libavc1394
+libavif
 libb2
 libblockdev
 libbluray
@@ -267,12 +274,15 @@ libkeybinder3
 libksba
 libldac
 libldap
+libmad
 libmfx
 libmm-glib
 libmnl
 libmodplug
 libmpc
+libmpcdec
 libmpd
+libmpeg2
 libndp
 libnetfilter_conntrack
 libnewt
@@ -373,6 +383,7 @@ libxv
 libxvmc
 libxxf86vm
 libyaml
+libyuv
 licenses
 lightdm
 lightdm-gtk-greeter
@@ -516,6 +527,7 @@ rofi
 rsync
 rtkit
 sbc
+schroedinger
 sdl2
 seatd
 sed
