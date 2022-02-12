@@ -40,11 +40,8 @@ Presentation
         Text {
             anchors.horizontalCenter: background.horizontalCenter
             anchors.top: background.bottom
-            text: "This is a customizable QML slideshow.<br/>"+
-                  "Distributions should provide their own slideshow and list it in <br/>"+
-                  "their custom branding.desc file.<br/>"+
-                  "To create a Calamares presentation in QML, import calamares.slideshow,<br/>"+
-                  "define a Presentation element with as many Slide elements as needed."
+            text: "<br/><br/><H1>Aox Linux v0.1</H1><br/>"+
+                  "<a href=\"https://github.com/olivaresa/aoxlinux/wiki\"><H3>https://github.com/olivaresa/aoxlinux/wiki</H3></a><br/>"
             wrapMode: Text.WordWrap
             width: presentation.width
             horizontalAlignment: Text.Center

@@ -122,12 +122,12 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         Aox Linux
-    shortProductName:    AoxLinux
+    shortProductName:    Aox Linux
     version:             v0.1
     shortVersion:        v0.1
-    versionedName:       Aox Linux GNU/Linux "v0.1"
-    shortVersionedName:  AoxLinux v0.1
-    bootloaderEntryName: AoxLinux
+    versionedName:       Aox Linux v0.1
+    shortVersionedName:  Aox Linux v0.1
+    bootloaderEntryName: Aox
     productUrl:          https://github.com/olivaresa/aoxlinux
     supportUrl:          https://github.com/olivaresa/aoxlinux/wiki
     knownIssuesUrl:      https://github.com/olivaresa/aoxlinux
