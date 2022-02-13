@@ -128,11 +128,11 @@ strings:
     versionedName:       Aox Linux v0.1
     shortVersionedName:  Aox Linux v0.1
     bootloaderEntryName: Aox
-    productUrl:          https://github.com/olivaresa/aoxlinux
-    supportUrl:          https://github.com/olivaresa/aoxlinux/wiki
-    knownIssuesUrl:      https://github.com/olivaresa/aoxlinux
+    productUrl:          https://olivaresa.github.io/aoxlinux/
+    supportUrl:          https://olivaresa.github.io/aoxlinux/
+    knownIssuesUrl:      https://github.com/olivaresa/aoxlinux/issues
     releaseNotesUrl:     https://github.com/olivaresa/aoxlinux/releases
-    donateUrl:           https://github.com/olivaresa
+    donateUrl:           https://olivaresa.github.io/aoxlinux/
 
 # These images are loaded from the branding module directory.
 #

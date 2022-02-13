@@ -41,7 +41,7 @@ Presentation
             anchors.horizontalCenter: background.horizontalCenter
             anchors.top: background.bottom
             text: "<br/><br/><H1>Aox Linux v0.1</H1><br/>"+
-                  "<a href=\"https://github.com/olivaresa/aoxlinux/wiki\"><H3>https://github.com/olivaresa/aoxlinux/wiki</H3></a><br/>"
+                  "<a href=\"https://olivaresa.github.io/aoxlinux/\"><H3>https://olivaresa.github.io/aoxlinux/</H3></a><br/>"
             wrapMode: Text.WordWrap
             width: presentation.width
             horizontalAlignment: Text.Center

@@ -5,7 +5,7 @@ AOXVER="v0_1"
 
 iso_name="aoxlinux"
 iso_label="Aox_Linux_$(date +%Y%m)_${AOXVER}"
-iso_publisher="Aox Linux <https://github.com/olivaresa/aoxlinux/wiki>"
+iso_publisher="Aox Linux <https://olivaresa.github.io/aoxlinux/>"
 iso_application="Aox Linux Live CD/USB"
 iso_version="$(date +%Y.%m.%d)_${AOXVER}"
 install_dir="arch"
