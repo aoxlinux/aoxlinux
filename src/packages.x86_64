@@ -9,6 +9,7 @@ alsa-topology-conf
 alsa-ucm-conf
 amd-ucode
 aom
+aox-hooks
 appstream
 appstream-glib
 appstream-qt
@@ -395,6 +396,7 @@ linux-firmware-whence
 linux-zen
 llvm-libs
 lm_sensors
+lsb-release
 lv2
 lvm2
 lxsession-gtk3
@@ -445,6 +447,7 @@ os-prober
 ostree
 p11-kit
 pacman
+pacman-contrib
 pacman-mirrorlist
 pam
 pamac-nosnap
