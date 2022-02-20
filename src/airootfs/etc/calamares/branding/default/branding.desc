@@ -123,16 +123,16 @@ navigation: widget
 strings:
     productName:         Aox Linux
     shortProductName:    Aox Linux
-    version:             v0.1
-    shortVersion:        v0.1
-    versionedName:       Aox Linux v0.1
-    shortVersionedName:  Aox Linux v0.1
+    version:             v0.2
+    shortVersion:        v0.2
+    versionedName:       Aox Linux v0.2
+    shortVersionedName:  Aox Linux v0.2
     bootloaderEntryName: Aox
-    productUrl:          https://olivaresa.github.io/aoxlinux/
-    supportUrl:          https://olivaresa.github.io/aoxlinux/
-    knownIssuesUrl:      https://github.com/olivaresa/aoxlinux/issues
+    productUrl:          https://aoxlinux.xyz
+    supportUrl:          https://docs.aoxlinux.xyz
+    knownIssuesUrl:      https://issues.aoxlinux.xyz
     releaseNotesUrl:     https://github.com/olivaresa/aoxlinux/releases
-    donateUrl:           https://olivaresa.github.io/aoxlinux/
+    donateUrl:           https://aoxlinux.xyz
 
 # These images are loaded from the branding module directory.
 #

@@ -40,8 +40,8 @@ Presentation
         Text {
             anchors.horizontalCenter: background.horizontalCenter
             anchors.top: background.bottom
-            text: "<br/><br/><H1>Aox Linux v0.1</H1><br/>"+
-                  "<a href=\"https://olivaresa.github.io/aoxlinux/\"><H3>https://olivaresa.github.io/aoxlinux/</H3></a><br/>"
+            text: "<br/><br/><H1>Aox Linux v0.2</H1><br/>"+
+                  "<a href=\"https://aoxlinux.xyz\"><H3>https://aoxlinux.xyz</H3></a><br/>"
             wrapMode: Text.WordWrap
             width: presentation.width
             horizontalAlignment: Text.Center

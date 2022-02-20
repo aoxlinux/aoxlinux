@@ -1,7 +1,14 @@
-#!/bin/bash
+#!/usr/bin/bash
 
+# Pacman key init
 pacman-key --init
+
+# Get and sing Aox Linux repository key
+pacman-key --recv-keys 287E617CFECFCC7F --keyserver keyserver.ubuntu.com
+pacman-key --lsign-key 287E617CFECFCC7F
+
+# Update repositories
 pacman-key --populate archlinux
 pacman -Syy --noconfirm archlinux-keyring
 
-echo "Done."
+echo "Fix mirror Done."
