@@ -116,6 +116,7 @@ gnome-menus
 gnome-themes-extra
 gnu-free-fonts
 gnupg
+gnustep-base
 gnutls
 gobject-introspection-runtime
 gpgme
@@ -396,12 +397,15 @@ linux-firmware-whence
 linux-zen
 llvm-libs
 lm_sensors
+lrzip
 lsb-release
 lv2
 lvm2
 lxsession-gtk3
 lz4
+lzip
 lzo
+lzop
 m4
 make
 mc
@@ -446,6 +450,7 @@ orc
 os-prober
 ostree
 p11-kit
+p7zip
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -579,6 +584,9 @@ tumbler
 twolame
 tzdata
 udisks2
+unarchiver
+unrar
+unzip
 upower
 usbmuxd
 util-linux
@@ -602,6 +610,7 @@ wlroots
 wpa_supplicant
 x264
 x265
+xarchiver
 xcb-proto
 xcb-util
 xcb-util-cursor
@@ -687,6 +696,7 @@ yajl
 yaml-cpp
 zeromq
 zimg
+zip
 zlib
 zram-generator
 zstd
