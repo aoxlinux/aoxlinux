@@ -1,0 +1,34 @@
+#!/usr/bin/bash
+
+# Set grub os-prober
+sed -i 's/#GRUB_DISABLE_OS_PROBER=false/GRUB_DISABLE_OS_PROBER=false/g' /etc/default/grub
+
+# Delete polkit calamares rule
+rm /etc/polkit-1/rules.d/49-nopasswd_calamares.rules
+
+# Set Aox Linux mirror
+cat > '/etc/pacman.d/aoxlinux-mirrorlist' <<- "EOF"
+
+# Aox Linux repository mirrorlist
+Server = https://pkgs.aoxlinux.xyz/$arch
+EOF
+
+cat >> '/etc/pacman.conf' <<- "EOF"
+
+# Aox Linux repository mirrorlist
+[aoxlinux]
+Include = /etc/pacman.d/aoxlinux-mirrorlist
+EOF
+
+# Pacman key init
+pacman-key --init
+
+# Get and sing Aox Linux repository key
+pacman-key --recv-keys 287E617CFECFCC7F --keyserver keyserver.ubuntu.com
+pacman-key --lsign-key 287E617CFECFCC7F
+
+# Update repositories
+pacman-key --populate archlinux
+pacman -Syy --noconfirm archlinux-keyring
+
+echo "Post install Done."
