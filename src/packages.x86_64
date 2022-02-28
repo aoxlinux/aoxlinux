@@ -551,6 +551,7 @@ sord
 sound-theme-freedesktop
 speex
 speexdsp
+spice
 sqlite
 squashfs-tools
 sratom
@@ -576,6 +577,7 @@ thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
+tpm2-tss
 tracker3
 tslib
 ttf-font-awesome

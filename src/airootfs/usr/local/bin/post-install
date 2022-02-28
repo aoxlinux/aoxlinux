@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+# Set grub os-prober
+sed -i 's/#GRUB_DISABLE_OS_PROBER=false/GRUB_DISABLE_OS_PROBER=false/g' /etc/default/grub
+
 # Delete polkit calamares rule
 rm /etc/polkit-1/rules.d/49-nopasswd_calamares.rules
 
