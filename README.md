@@ -2,7 +2,7 @@
 Aox is a Linux distribution derived from Arch for x86_64 computers, its main goal is to provide a clean working desktop with applications necessary for a common user.
 
 <p align="center">
-    <img src="https://aoxlinux.xyz/screenshots/aoxlinux.png" alt="desktop" width="80%" height="80%" />
+    <img src="https://aoxlinux.github.io/screenshots/aoxlinux.png" alt="desktop" width="80%" height="80%" />
 </p>
 
 ### Features:
